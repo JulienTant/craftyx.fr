@@ -1,0 +1,9 @@
++++
+title = 'Welcome'
+date = 2024-02-10T13:31:21-07:00
+draft = true
++++
+
+## Welcome to my blog!
+
+Once again, trying to blog about random backend and devops stuff. Maybe some frontend too!

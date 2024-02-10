@@ -1,0 +1,11 @@
+baseURL = 'https://craftyx.fr/'
+languageCode = 'en-us'
+title = 'Craftyx.fr'
+theme = 'ananke'
+enableEmoji = true
+enableGitInfo = true
+
+[params]
+  subtitle = 'Software engineering, DevOps, and more'
+  [params.contact]
+    email = 'julien@craftyx.fr'
