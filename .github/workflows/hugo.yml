@@ -21,7 +21,9 @@ jobs:
       run: sudo apt install hugo
 
     - name: Build
-      run: hugo --minify
+      run: |
+        hugo mod get
+        hugo --minify
 
     - name: Set up QEMU
       uses: docker/setup-qemu-action@v3
