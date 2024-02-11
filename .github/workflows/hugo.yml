@@ -20,6 +20,9 @@ jobs:
     - name: Install Hugo
       run: sudo apt install hugo
 
+    - name: ls
+      run: ls -la
+
     - name: Build
       run: |
         hugo mod get
