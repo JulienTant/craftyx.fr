@@ -2,4 +2,4 @@
 title = "Blog"
 +++
 
-hi from _index
+Sharing my thoughts, ideas and projects.
