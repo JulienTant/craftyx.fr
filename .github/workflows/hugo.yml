@@ -25,6 +25,7 @@ jobs:
 
     - name: Build
       run: |
+        hugo version
         hugo mod get
         hugo --minify
 
