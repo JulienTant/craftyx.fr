@@ -1,6 +1,6 @@
 module github.com/julientant/craftyx.fr
 
-go 1.22.0
+go 1.22
 
 require (
 	github.com/1bl4z3r/hermit-V2 v1.0.13 // indirect
